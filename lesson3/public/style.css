@@ -12,7 +12,6 @@ p, h1, h2, h3, a, ul{
   text-decoration: none;
   color: #222;
 }
-
 /* nav & footer styles */
 nav{
   display: flex;
@@ -53,11 +52,8 @@ h3{
 .content{
   margin-left: 20px;
 }
-
 /* index styles */
-
 /* details styles */
-
 /* create styles */
 .create-blog form{
   max-width: 400px;
@@ -74,7 +70,7 @@ h3{
   display: block;
   margin-top: 24px;
 }
-textarea{
+.create-blog textarea{
   height: 120px;
 }
 .create-blog button{
